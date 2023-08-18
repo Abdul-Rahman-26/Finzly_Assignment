@@ -1,5 +1,5 @@
-# Finzly_Assignment**
-**Concepts Covered **
+# Finzly_Assignment
+Concepts Covered 
 
 1) For Loop(30 programs)
 

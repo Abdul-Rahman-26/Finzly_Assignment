@@ -23,4 +23,15 @@ Concepts Covered
 
 8) Abstraction (Bank Account Management System)
 
-9) Library_Management (Using OOPS concepts) 
+9) Library_Management (Using OOPS concepts)
+
+10) emp_System (Building an Inheritance-based Employee System in Java)
+
+11) ex_Constructor (Exploring Constructors in Java)
+
+12) imp_Polymorphism ( Implementing Polymorphism in Java )
+
+13) imp_Interfaces ( Implementing Interfaces in Java for Vehicles ) 
+
+
+

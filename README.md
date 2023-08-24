@@ -31,7 +31,9 @@ Concepts Covered
 
 12) imp_Polymorphism ( Implementing Polymorphism in Java )
 
-13) imp_Interfaces ( Implementing Interfaces in Java for Vehicles ) 
+13) imp_Interfaces ( Implementing Interfaces in Java for Vehicles )
+
+14) StringClassMethods ( String methods ) 
 
 
 

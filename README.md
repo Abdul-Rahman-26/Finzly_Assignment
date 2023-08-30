@@ -33,7 +33,14 @@ Concepts Covered
 
 13) imp_Interfaces ( Implementing Interfaces in Java for Vehicles )
 
-14) StringClassMethods ( String methods ) 
+14) StringClassMethods ( String methods )
+
+15)Collection 
+   1) Employee Management System ( ArrayList )
+   2) Bank Management System ( HashMap )
+   3) School Management System (HashMap )
+   4) Hospital Management System ( HashMap )
+   5) Project Management System ( HashMap , Set )
 
 
 

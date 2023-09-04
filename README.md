@@ -46,4 +46,4 @@ Concepts Covered
     1) Hotel Management System ( Classes like Employee - Front Desk, Kitchen Staff, House Keeping, Maintenance and EmployeeManagement using some Exception handling methods)
     2) Hotel Management System ( Classes like Room , Types of Rooms - Standard, Deluxe, Suite and Reservation and Created a custom Exceptions to handle)
 
-17) Country ( For understanding Concept of Collection Created a ArrayList and that list are combined as Single list India.
+17) Country ( For understanding Concept of Collection Created a ArrayList and that list are combined as Single list India)

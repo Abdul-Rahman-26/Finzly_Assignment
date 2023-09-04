@@ -35,12 +35,13 @@ Concepts Covered
 
 14) StringClassMethods ( String methods )
 
-15)Collection 
+15) Collection 
    1) Employee Management System ( ArrayList )
    2) Bank Management System ( HashMap )
    3) School Management System (HashMap )
    4) Hospital Management System ( HashMap )
    5) Project Management System ( HashMap , Set )
 
-
-
+16) Exception Handling
+    1) Hotel Management System ( Classes like Employee - Front Desk, Kitchen Staff, House Keeping, Maintenance and EmployeeManagement using some Exception handling methods)
+    2) Hotel Management System ( Classes like Room , Types of Rooms - Standard, Deluxe, Suite and Reservation and Created a custom Exceptions to handle)

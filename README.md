@@ -66,4 +66,6 @@ Concepts Covered
 
 20)  spring ( JDBC using spring boot )
 
-21) Hibernate_1 ( Library Invertory System ) 
+21) Hibernate_1 ( Library Invertory System )
+
+22) Hibernate1 (Employee Management System ) 

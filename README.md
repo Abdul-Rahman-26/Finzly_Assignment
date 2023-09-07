@@ -1,7 +1,7 @@
 # Finzly_Assignment
 
 
-Front End
+**Front End**
 
 1) type script
 
@@ -9,8 +9,7 @@ Front End
       2) Assignment 2 ( Dynamic array and traversing)
       3) Assignment 3 ( Class exporting and importing)
 
-
-Java
+**Java**
 
 Concepts Covered 
 

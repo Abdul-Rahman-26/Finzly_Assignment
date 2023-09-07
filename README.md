@@ -1,4 +1,13 @@
 # Finzly_Assignment
+
+
+Front End
+
+1) type script
+
+      1) Assignment 1 ( Fuctions,Anonymous function,Fat Arrow function)
+      2) Assignment 2 ( Dynamic array and traversing)
+      3) Assignment 3 ( Class exporting and importing)
 Concepts Covered 
 
 1) For Loop(30 programs)

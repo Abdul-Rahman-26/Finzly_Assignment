@@ -8,6 +8,7 @@
       1) Assignment 1 ( Fuctions,Anonymous function,Fat Arrow function)
       2) Assignment 2 ( Dynamic array and traversing)
       3) Assignment 3 ( Class exporting and importing)
+      4) Assignment 4 ( Inheritance types --> Single, MultiLevel, Hierarchical)
 
 **Java**
 

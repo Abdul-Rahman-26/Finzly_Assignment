@@ -69,4 +69,6 @@ Concepts Covered
 
 21) Hibernate_1 ( Library Invertory System )
 
-22) Hibernate1 (Employee Management System ) 
+22) Hibernate1 (Employee Management System )
+
+23) Sample (Springboot using Hibernate Criteria methods)

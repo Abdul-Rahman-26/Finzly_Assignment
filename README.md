@@ -10,6 +10,11 @@
       3) Assignment 3 ( Class exporting and importing)
       4) Assignment 4 ( Inheritance types --> Single, MultiLevel, Hierarchical)
 
+2) angular
+      1) Assignment 1 ( Create employee,student component and property value )
+      2) Assignment 2 ( Change font, send data, CheckPrime )
+      3) Assignment 3 ( Create a form )
+
 **Java**
 
 Concepts Covered 

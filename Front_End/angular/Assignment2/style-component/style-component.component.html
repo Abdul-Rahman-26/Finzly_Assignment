@@ -1,0 +1,18 @@
+<h2 [class.changeFont] = "change">The Changing Text </h2>
+
+<button (click)="onClick()">Change</button>
+<br>
+<hr>
+
+<p>Guess one Number sending the value </p>
+<input #send type="text" >
+<br><br>
+<button (click)="onClick1(send.value)">Send</button>
+<hr>
+
+<p>Enter the Number to check it prime or not </p>
+<input #prime type="text" >
+<br><br>
+<button (click)="onClick2(prime.value)">Send</button>
+<br>
+<p>{{str}}</p>
